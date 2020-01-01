@@ -1,6 +1,6 @@
 {
   "name": "@cloudwalker/prettier-config",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "Luca Barone <baro.luc@gmail.com>",
   "homepage": "https://github.com/cloud-walker/node-modules#readme",
   "main": "src/prettier-config.js",
