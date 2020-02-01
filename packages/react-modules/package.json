@@ -1,0 +1,20 @@
+{
+  "name": "@cloudwalker/react-modules",
+  "version": "0.1.0",
+  "author": "Luca Barone <baro.luc@gmail.com>",
+  "homepage": "https://github.com/cloud-walker/node-modules#readme",
+  "main": "src/react-modules.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "files": [
+    "src"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cloud-walker/node-modules.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cloud-walker/node-modules/issues"
+  }
+}
