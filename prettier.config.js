@@ -1,1 +1,1 @@
-module.exports = require('@cloudwalker/prettier-config')
+module.exports = require('./packages/prettier-config/src/prettier-config.js')

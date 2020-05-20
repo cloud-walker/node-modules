@@ -23,11 +23,6 @@
     chalk "^2.0.0"
     js-tokens "^4.0.0"
 
-"@cloudwalker/prettier-config@^0.1.1":
-  version "0.1.1"
-  resolved "https://registry.yarnpkg.com/@cloudwalker/prettier-config/-/prettier-config-0.1.1.tgz#9a7e7219098795ffb9f54303df186595f94e1eef"
-  integrity sha512-r33D6fQ24srj6ClMMAdaNayB/CSiIH4t5Uu9yjS5zv9EZX39Yye8bEjZ9GtYaaLt/YFX9gBejPFjJH1U0mNJXw==
-
 "@evocateur/libnpmaccess@^3.1.2":
   version "3.1.2"
   resolved "https://registry.yarnpkg.com/@evocateur/libnpmaccess/-/libnpmaccess-3.1.2.tgz#ecf7f6ce6b004e9f942b098d92200be4a4b1c845"
